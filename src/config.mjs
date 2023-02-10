@@ -1,9 +1,9 @@
 import defaultImage from './assets/images/default.png';
 
 const CONFIG = {
-  name: 'genznodes',
+  name: 'nodesia',
 
-  origin: 'https://genznodes.dev',
+  origin: 'https://nodesia.com',
   basePathname: '/',
   trailingSlash: false,
 
